@@ -248,7 +248,6 @@ export const projects = [
       "Node Js",
       "Express Js",
       "TMDB api",
-      "NodeMailer",
     ],
     category: "Web app",
     github: "https://github.com/parshadk/next_app_with_tmdb",
@@ -259,7 +258,7 @@ export const projects = [
     title: "CMS Backend",
     date: "July 2024",
     description:
-      "A Content Management System with user authentication where authenticated user change data from frontend using ",
+      "A Content Management System with user authentication where authenticated user can change data using api which makes in ",
     tags: ["Node.js", "Express.js", "MongoDB","REST API"],
     category: "Backend Code for web app",
     github: "https://github.com/parshadk/CMS_backend",
